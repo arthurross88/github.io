@@ -1,0 +1,18 @@
+[
+ {
+  "username": "Arthur",
+  "name": null,
+  "userimg": "https://avatars.githubusercontent.com/u/1038?v=4",
+  "sort": "star",
+  "order": "asc",
+  "includeFork": false,
+  "theme": "light.css",
+  "types": [
+   "owner"
+  ],
+  "twitter": "https://twitter.com/ArthurRoss",
+  "linkedin": "https://www.linkedin.com/in/arpross/",
+  "medium": null,
+  "dribbble": null
+ }
+]
